@@ -1,0 +1,27 @@
+#Nami {
+    background-image: url("/img/nami_pro_2.0.png");
+    width: 900px;
+    height: 600px;
+    border: 0px solid black;
+    background-repeat: no-repeat;
+    
+}
+
+#Left {
+
+    position:relative;
+    left: 50px;
+    top: 370px;
+    width: 200px;
+    height: 200px;
+}
+    
+#Right {
+    position:relative;
+    left: 190px;
+    top: 370px;
+    margin-top:-200px;
+    width: 200px;
+    height: 200px;
+}
+
